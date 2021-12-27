@@ -10,7 +10,7 @@ crash.log
 
 # Ignore any .tfvars files that are generated automatically for each Terraform run. Most
 # .tfvars files are managed as part of configuration and so should be included in
-# version control.
+# version control.mxcmmcmdmf
 #
 # example.tfvars
 
