@@ -1,4 +1,4 @@
-# terraform-sumologic-sumo-logic-monitor
+# terraform-sumologic-sumo-logic-monitor-new
 
 Configure Sumo Logic Monitors using Terraform modules.
 
